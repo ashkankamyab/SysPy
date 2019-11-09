@@ -1,0 +1,12 @@
+# Credentials
+token*
+credential*
+
+# Files Suffix
+*.xlsx
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+fabric/
